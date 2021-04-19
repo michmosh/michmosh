@@ -1,0 +1,32 @@
+[
+    {
+        "knowladgeID": "123456781",
+        "knowladgeName": "מאגר א",
+        "knowladgeDsc": "תוכן מאגר א"
+    },
+    {
+        "knowladgeID": "123456782",
+        "knowladgeName": "מאגר ב",
+        "knowladgeDsc": "תוכן מאגר א"
+    },
+    {
+        "knowladgeID": "123456783",
+        "knowladgeName": "מאגר ג",
+        "knowladgeDsc": "תוכן מאגר א"
+    },
+    {
+        "knowladgeID": "123456784",
+        "knowladgeName": "מאגר ד",
+        "knowladgeDsc": "תוכן מאגר א"
+    },
+    {
+        "knowladgeID": "123456785",
+        "knowladgeName": "מאגר ה",
+        "knowladgeDsc": "תוכן מאגר א"
+    },
+    {
+        "knowladgeID": "123456786",
+        "knowladgeName": "מאגר ו",
+        "knowladgeDsc": "תוכן מאגר א"
+    }
+]

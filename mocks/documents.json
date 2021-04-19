@@ -1,0 +1,68 @@
+[
+    {
+        "insertDate":"12/03/10",
+        "fileName":"mock-file.docs",
+        "fileType":"docs",
+        "fileTypeDsc":"google docs",
+        "sensetivity":1,
+        "claiment" : "AAA",
+        "policy":"41883747001796",
+        "endors":"7.2",
+        "docNrt":"123456789123"
+    },
+    {
+        "insertDate":"12/03/10",
+        "fileName":"mock-file.docs",
+        "fileType":"docs",
+        "fileTypeDsc":"google docs",
+        "sensetivity":1,
+        "claiment" : "AAA",
+        "policy":"41883747001796",
+        "endors":"7.2",
+        "docNrt":"123456789123"
+    },
+    {
+        "insertDate":"12/03/10",
+        "fileName":"mock-file.docs",
+        "fileType":"docs",
+        "fileTypeDsc":"google docs",
+        "sensetivity":1,
+        "claiment" : "AAA",
+        "policy":"41883747001796",
+        "endors":"7.2",
+        "docNrt":"123456789123"
+    },
+    {
+        "insertDate":"12/03/10",
+        "fileName":"mock-file.docs",
+        "fileType":"docs",
+        "fileTypeDsc":"google docs",
+        "sensetivity":1,
+        "claiment" : "AAA",
+        "policy":"41883747001796",
+        "endors":"7.2",
+        "docNrt":"123456789123"
+    },
+    {
+        "insertDate":"12/03/10",
+        "fileName":"mock-file.docs",
+        "fileType":"docs",
+        "fileTypeDsc":"google docs",
+        "sensetivity":1,
+        "claiment" : "AAA",
+        "policy":"41883747001796",
+        "endors":"7.2",
+        "docNrt":"123456789123"
+    },
+    {
+        "insertDate":"12/03/10",
+        "fileName":"mock-file.docs",
+        "fileType":"docs",
+        "fileTypeDsc":"google docs",
+        "sensetivity":1,
+        "claiment" : "AAA",
+        "policy":"41883747001796",
+        "endors":"7.2",
+        "docNrt":"123456789123"
+    }
+]
