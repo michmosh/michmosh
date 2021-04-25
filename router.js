@@ -47,4 +47,13 @@ router.post('/knowladge-base/:id', async function(req,res){
     res.send(mockResponse)
 })
 
+router.post('/register-activitey/', async function(req,res){
+    const mockResponse = {
+        status:'ok',
+        success : true
+    }
+    await res.status(200)
+    res.send(mockResponse)
+})
+
 module.exports = router
