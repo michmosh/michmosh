@@ -27,6 +27,11 @@ router.get('/documents', function (req, res) {
     res.status(200)
    res.send(jsonReesponse);
 })
+router.get('/claims', function (req, res) {
+    const jsonReesponse = require('./mocks/claims.json')
+    res.status(200)
+   res.send(jsonReesponse);
+})
 
 router.post('/policies/:id', async function(){
     const mockResponse = {
