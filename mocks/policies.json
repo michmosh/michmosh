@@ -1,72 +1,232 @@
-[
-    {
-        "COVA_DSC": "yashir",
-        "POLICY_NR": "48304258405206",
-        "STS_DSC": "פוליסה",
-        "POLICY_START_DATE": "12/11/05",
-        "POLICY_END_DATE": "12/11/05",
-        "CLASS_DSC": "בריאות",
-        "BRAND_DSC": "5",
-        "SUR_CLASS_DSC": "???"
-    },
-    {
-        "COVA_DSC": "yashir",
-        "POLICY_NR": "30306814203510",
-        "STS_DSC": "פוליסה",
-        "POLICY_START_DATE": "12/11/05",
-        "POLICY_END_DATE": "12/11/05",
-        "CLASS_DSC": "בריאות",
-        "BRAND_DSC": "5",
-        "SUR_CLASS_DSC": "???"
-    },
-    {
-        "COVA_DSC": "yashir",
-        "POLICY_NR": "28657610869435",
-        "STS_DSC": "פוליסה",
-        "POLICY_START_DATE": "12/11/05",
-        "POLICY_END_DATE": "12/11/05",
-        "CLASS_DSC": "בריאות",
-        "BRAND_DSC": "5",
-        "SUR_CLASS_DSC": "???"
-    },
-    {
-        "COVA_DSC": "yashir",
-        "POLICY_NR": "95537329896234",
-        "STS_DSC": "פוליסה",
-        "POLICY_START_DATE": "12/11/05",
-        "POLICY_END_DATE": "12/11/05",
-        "CLASS_DSC": "בריאות",
-        "BRAND_DSC": "5",
-        "SUR_CLASS_DSC": "???"
-    },
-    {
-        "COVA_DSC": "yashir",
-        "POLICY_NR": "41883747001796",
-        "STS_DSC": "פוליסה",
-        "POLICY_START_DATE": "12/11/05",
-        "POLICY_END_DATE": "12/11/05",
-        "CLASS_DSC": "בריאות",
-        "BRAND_DSC": "5",
-        "SUR_CLASS_DSC": "???"
-    },
-    {
-        "COVA_DSC": "yashir",
-        "POLICY_NR": "73542187247861",
-        "STS_DSC": "פוליסה",
-        "POLICY_START_DATE": "12/11/05",
-        "POLICY_END_DATE": "12/11/05",
-        "CLASS_DSC": "בריאות",
-        "BRAND_DSC": "5",
-        "SUR_CLASS_DSC": "???"
-    },
-    {
-        "COVA_DSC": "yashir",
-        "POLICY_NR": "44070733814123",
-        "STS_DSC": "פוליסה",
-        "POLICY_START_DATE": "12/11/05",
-        "POLICY_END_DATE": "12/11/05",
-        "CLASS_DSC": "בריאות",
-        "BRAND_DSC": "5",
-        "SUR_CLASS_DSC": "???"
-    }
-]
+[{
+	"policy": "1409756800",
+	"client": "034689661",
+	"startDate": "05/08/20",
+	"endDate": "31/07/21",
+	"status": "פוליסה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "דירות",
+	"surClassDsc": "תכולה",
+	"regMark": null,
+	"assetDsc": "פתח תקווה רחוב האחים בכר  6 דירה 25"
+}, {
+	"policy": "1307437100",
+	"client": "034689661",
+	"startDate": "15/07/19",
+	"endDate": "30/06/20",
+	"status": "פוליסה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "1873633",
+	"assetDsc": "ניסן   מס רישוי 1873633   שנת יצור 2015"
+}, {
+	"policy": "878322201",
+	"client": "036824019",
+	"startDate": "01/11/16",
+	"endDate": "31/10/17",
+	"status": "פוליסה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "5629367",
+	"assetDsc": "דייהטסו   מס רישוי 5629367   שנת יצור 2009"
+}, {
+	"policy": "878322200",
+	"client": "036824019",
+	"startDate": "01/11/15",
+	"endDate": "31/10/16",
+	"status": "פוליסה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "5629367",
+	"assetDsc": "דייהטסו   מס רישוי 5629367   שנת יצור 2009"
+}, {
+	"policy": "710749600",
+	"client": "034689661",
+	"startDate": "06/01/14",
+	"endDate": "31/12/80",
+	"status": "פוליסה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "חיים",
+	"surClassDsc": "בריאות",
+	"regMark": null,
+	"assetDsc": "בריאות"
+}, {
+	"policy": "707272900",
+	"client": "034689661",
+	"startDate": "23/12/13",
+	"endDate": "30/11/77",
+	"status": "פוליסה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "חיים",
+	"surClassDsc": "בריאות",
+	"regMark": null,
+	"assetDsc": "בריאות"
+}, {
+	"policy": "706113500",
+	"client": "034689661",
+	"startDate": "18/12/13",
+	"endDate": "30/11/84",
+	"status": "פוליסה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "חיים",
+	"surClassDsc": "בריאות",
+	"regMark": null,
+	"assetDsc": "בריאות"
+}, {
+	"policy": "1399430500",
+	"client": "034689661",
+	"startDate": "28/06/20",
+	"endDate": "30/06/21",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "דירות",
+	"surClassDsc": "תכולה",
+	"regMark": null,
+	"assetDsc": "פתח תקווה רחוב האחים בכר  6 דירה 25"
+}, {
+	"policy": "1398474700",
+	"client": "034689661",
+	"startDate": "21/06/20",
+	"endDate": "30/06/21",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "דירות",
+	"surClassDsc": "מבנה+תכולה",
+	"regMark": null,
+	"assetDsc": "פתח תקווה רחוב האחים בכר  6 דירה 25"
+}, {
+	"policy": "661263400",
+	"client": "034689661",
+	"startDate": "15/05/13",
+	"endDate": "31/05/14",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "מאזדה   שנת יצור 2010"
+}, {
+	"policy": "657425100",
+	"client": "034689661",
+	"startDate": "25/04/13",
+	"endDate": "31/03/14",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "מאזדה   מס רישוי 4715463   שנת יצור 2008"
+}, {
+	"policy": "657401400",
+	"client": "034689661",
+	"startDate": "25/04/13",
+	"endDate": "30/04/14",
+	"status": "הצעה נדחתה",
+	"brand": "9 ביטוח",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "מאזדה   שנת יצור 2010"
+}, {
+	"policy": "624704200",
+	"client": "034689661",
+	"startDate": "01/12/12",
+	"endDate": "30/11/13",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "אודי   שנת יצור 2012"
+}, {
+	"policy": "624701800",
+	"client": "034689661",
+	"startDate": "11/11/12",
+	"endDate": "31/10/13",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "מאזדה   שנת יצור 2009"
+}, {
+	"policy": "624701000",
+	"client": "034689661",
+	"startDate": "11/11/12",
+	"endDate": "31/10/13",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "דייהטסו   שנת יצור 2009"
+}, {
+	"policy": "622436800",
+	"client": "034689661",
+	"startDate": "30/10/12",
+	"endDate": "31/10/13",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "יונדאי   שנת יצור 2010"
+}, {
+	"policy": "607556800",
+	"client": "034689661",
+	"startDate": "31/07/12",
+	"endDate": "31/07/13",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "רכב ללא תאונה+",
+	"regMark": "null",
+	"assetDsc": "אופל   שנת יצור 2010"
+}, {
+	"policy": "607534900",
+	"client": "034689661",
+	"startDate": "31/07/12",
+	"endDate": "31/07/13",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "רכב ללא גניבה+",
+	"regMark": "null",
+	"assetDsc": "אלפא   שנת יצור 2009"
+}, {
+	"policy": "535284000",
+	"client": "13819108",
+	"startDate": "13/05/11",
+	"endDate": "30/04/12",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח YNET",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "ב.מ.וו   שנת יצור 2006"
+}, {
+	"policy": "535283300",
+	"client": "13819082",
+	"startDate": "13/05/11",
+	"endDate": "30/04/12",
+	"status": "הצעה נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "רכב",
+	"surClassDsc": "מקיף+",
+	"regMark": "null",
+	"assetDsc": "דייהטסו   שנת יצור 2008"
+}, {
+	"policy": "707278100",
+	"client": "034689661",
+	"startDate": "23/12/13",
+	"endDate": "30/11/77",
+	"status": "הצעה בעפ נדחתה",
+	"brand": "ביטוח ישיר",
+	"classDsc": "חיים",
+	"surClassDsc": "בריאות",
+	"regMark": null,
+	"assetDsc": "בריאות"
+}]
