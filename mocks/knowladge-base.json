@@ -1,32 +1,49 @@
 [
     {
-        "knowladgeID": "123456781",
-        "knowladgeName": "מאגר א",
-        "knowladgeDsc": "תוכן מאגר א"
+        "templateId":"123456781",
+        "templateName":"מאגר א",
+        "text":"תוכן מאגר א"
     },
     {
-        "knowladgeID": "123456782",
-        "knowladgeName": "מאגר ב",
-        "knowladgeDsc": "תוכן מאגר א"
+        "templateId":"123456782",
+        "templateName":"מאגר ב",
+        "text":"תוכן מאגר א"
     },
     {
-        "knowladgeID": "123456783",
-        "knowladgeName": "מאגר ג",
-        "knowladgeDsc": "תוכן מאגר א"
+        "templateId":"123456783",
+        "templateName":"מאגר ג",
+        "text":"תוכן מאגר א"
     },
     {
-        "knowladgeID": "123456784",
-        "knowladgeName": "מאגר ד",
-        "knowladgeDsc": "תוכן מאגר א"
+        "templateId":"123456784",
+        "templateName":"מאגר ד",
+        "text":"תוכן מאגר א"
     },
     {
-        "knowladgeID": "123456785",
-        "knowladgeName": "מאגר ה",
-        "knowladgeDsc": "תוכן מאגר א"
+        "templateId":"123456785",
+        "templateName":"מאגר ה",
+        "text":"תוכן מאגר א"
     },
     {
-        "knowladgeID": "123456786",
-        "knowladgeName": "מאגר ו",
-        "knowladgeDsc": "תוכן מאגר א"
+        "templateId":"123456786",
+        "templateName":"מאגר ו",
+        "text":"תוכן מאגר א"
+    },
+    {
+        "templateId":"1",
+        "templateName":"יצירת קשר - ביטוח ישיר",
+        "text":"$clientFirstName שלום, מסמכי הביטוח שלך בחברתינו ממתינים עבורך לצפייה באזור האישי באתר החברה: $urlClientZone .\nנשמח לעמוד לשירותך בכל עת, $brand."
+    },
+    {
+        "templateId":"7",
+        "templateName":"יצירת קשר- YNET ביטוח צאט",
+        "text":"נציג YNET ביטוח ניסה להשיגך, לצאט שירות לחץ"
+    },
+    {
+        "templateId":"6",
+        "templateName":"יצירת קשר- Life Direct צאט",
+        "text":"נציג Life Direct ניסה להשיגך, לצאט שירות לחץ"
     }
 ]
+
+
