@@ -37,7 +37,7 @@ router.get('/twilio/flex/templateForUser/:id', function (req, res) {
     res.status(200)
    res.send(jsonReesponse);
 })
-router.get('/twilio/flex/templateText/:channelId/:templateId', async function(req,res){
+router.get('/twilio/flex/templateTxt/:channelId/:templateId', async function(req,res){
     const clientId = req.params.id;
     const mockResponse = `${clientId} שלום, מסמכי הביטוח שלך בחברתינו ממתינים עבורך לצפייה באזור האישי באתר החברה: $urlClientZone .\nנשמח לעמוד לשירותך בכל עת, $brand." `
    
