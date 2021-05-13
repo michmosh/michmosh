@@ -39,7 +39,7 @@ router.get('/twilio/flex/templateForUser/:id', function (req, res) {
 })
 router.get('/twilio/flex/templateTxt/:channelId/:templateId', async function(req,res){
     const clientId = req.params.id;
-    const mockResponse = `${clientId} שלום, מסמכי הביטוח שלך בחברתינו ממתינים עבורך לצפייה באזור האישי באתר החברה: $urlClientZone .\nנשמח לעמוד לשירותך בכל עת, $brand." `
+    const mockResponse = `יהודית שלום, מסמכי הביטוח שלך בחברתינו ממתינים עבורך לצפייה באזור האישי באתר החברה: https://ut555.relay.yashir.co.il/site/online/login.html?BASKET_NR=null . `
    
     await res.status(200)
     res.send(mockResponse)
