@@ -44,9 +44,9 @@ router.get('/twilio/flex/templateText/:channelId/:templateId', async function(re
     await res.status(200)
     res.send(mockResponse)
 })
-router.get('/twilio/login/authenticated?disableLdap=1', async function(req,res){
+router.get('/twilio/login/authenticated', async function(req,res){
     await res.status(200)
-    await res.send('ok');
+    res.send('ok');
 })
 router.post('/policies/:id', async function(){
     const mockResponse = {
