@@ -38,11 +38,17 @@ router.get('/twilio/flex/templateForUser/:id', function (req, res) {
    res.send(jsonReesponse);
 })
 router.get('/twilio/flex/templateTxt/:channelId/:templateId', async function(req,res){
-    const clientId = req.params.id;
+   
     const mockResponse = `יהודית שלום, מסמכי הביטוח שלך בחברתינו ממתינים עבורך לצפייה באזור האישי באתר החברה: https://ut555.relay.yashir.co.il/site/online/login.html?BASKET_NR=null . `
    
     await res.status(200)
     res.send(mockResponse)
+})
+router.get('/twilio/flex/historyChannels/:from', async function(req,res){
+    const from = req.params.from;
+    const jsonResponse = require('./mocks/search.json')
+    await res.status(200)
+    res.send(jsonResponse)
 })
 router.get('/twilio/login/authenticated', async function(req,res){
     await res.status(200)
