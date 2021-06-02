@@ -32,6 +32,26 @@ router.get('/claims', function (req, res) {
     res.status(200)
    res.send(jsonReesponse);
 })
+router.get('/twilio/flex/clientForms/:email', function (req, res) {
+    const jsonReesponse = require('./mocks/forms.json')
+    res.status(200)
+   res.send(jsonReesponse);
+})
+router.get('/twilio/flex/clientDocuments/:id', function (req, res) {
+    const jsonReesponse = require('./mocks/documents.json')
+    res.status(200)
+   res.send(jsonReesponse);
+})
+router.get('/twilio/flex/clientPolicies/:id', function (req, res) {
+    const jsonReesponse = require('./mocks/policies.json')
+    res.status(200)
+   res.send(jsonReesponse);
+})
+router.get('/twilio/flex/clientClaims/:id', function (req, res) {
+    const jsonReesponse = require('./mocks/claims.json')
+    res.status(200)
+   res.send(jsonReesponse);
+})
 router.get('/twilio/flex/templateForUser/:id', function (req, res) {
     const jsonReesponse = require('./mocks/knowladge-base.json')
     res.status(200)
@@ -74,6 +94,15 @@ router.post('/knowladge-base/:id', async function(req,res){
 })
 
 router.post('/register-activitey/', async function(req,res){
+    const mockResponse = {
+        status:'ok',
+        success : true
+    }
+    await res.status(200)
+    res.send(mockResponse)
+})
+
+router.post('/twilio/flex/conversationUpdate/', async function(req,res){
     const mockResponse = {
         status:'ok',
         success : true
