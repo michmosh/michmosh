@@ -32,6 +32,11 @@ router.get('/claims', function (req, res) {
     res.status(200)
    res.send(jsonReesponse);
 })
+router.get('/twilio/flex/getTags', function (req, res) {
+    const jsonReesponse = require('./mocks/tags.json')
+    res.status(200)
+    res.send(jsonReesponse);
+})
 router.get('/twilio/flex/clientForms/:email', function (req, res) {
     const jsonReesponse = require('./mocks/forms.json')
     res.status(200)
